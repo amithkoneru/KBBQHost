@@ -1,9 +1,9 @@
-public class Tables {
+public class Table {
     private int tableNumber;
     private boolean isOccupied;
 
 
-    public Tables(int tableNumber, boolean isOccupied) {
+    public Table(int tableNumber, boolean isOccupied) {
         this.tableNumber = tableNumber;
         this.isOccupied = isOccupied;
 

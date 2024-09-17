@@ -1,14 +1,14 @@
-public class Dishes {
+public class Dish {
     
     private String name;
     private int maxAllowed;
 
-    public Dishes() {
+    public Dish() {
 
 
     }
 
-    public Dishes(String name, int maxAllowed)  {
+    public Dish(String name, int maxAllowed)  {
         this.name = name;
         this.maxAllowed = maxAllowed;
     }
